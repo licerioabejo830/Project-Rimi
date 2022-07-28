@@ -1,3 +1,8 @@
 body{
-    background-color: aquamarine;
+    background-image: url('media/aharen.gif');
+    background-size: 100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
 }
